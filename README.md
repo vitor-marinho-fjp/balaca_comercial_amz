@@ -7,7 +7,7 @@ Este repositório contém um script Python que visualiza dados de exportações 
 
 ## Descrição
 
-O script gera uma série de gráficos de barras que representam as exportações e importações para cada estado. Os dados são fictícios e servem para demonstrar a capacidade do script de manipular e visualizar dados de comércio.
+O script gera uma série de gráficos de barras que representam as exportações e importações para cada estado. Os dados são projetos com base em um modelo de equilíbrio geral comoutavel 
 
 ## Como usar
 
