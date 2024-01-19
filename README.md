@@ -1,6 +1,6 @@
 # Análise de Exportações e Importações
 
-<a href="https://ibb.co/ZHDvLBr"><img src="https://i.ibb.co/ZHDvLBr/balanca.png" alt="balanca" border="0"></a>
+![Balança Comercial Amazônia Legal](/balanca_comercial (2).png)
 
 
 Este repositório contém um script Python que visualiza dados de exportações e importações de diversos estados brasileiros ao longo de diferentes anos.
